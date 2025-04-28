@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiyaTripathi11
 - 👀  coding
 - 🌱 learning data structure and algorithm
-- 💞️  web devlopment
+- 💞️  Artificial intelligence 
 - 📫 riyatripathi502@gmail.com
 
 <!---
